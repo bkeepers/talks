@@ -22,10 +22,6 @@ Let's finally give JavaScript the respect it deserves.
         3. presenters
 3. …
 
-## Bio
-
-Brandon is a developer at GitHub. He spends most of his time crafting beautiful code for Gaug.es, SpeakerDeck.com and HarmonyApp.com. Brandon has created and maintains many open-source projects, and shares about his endeavors at opensoul.org.
-
 ## Submitted To
 
 * [BackboneConf 2012](http://backboneconf.com/)

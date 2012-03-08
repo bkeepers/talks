@@ -1,0 +1,1 @@
+Brandon is a developer at GitHub. He spends most of his time crafting beautiful code for Gaug.es, SpeakerDeck.com and HarmonyApp.com. Brandon has created and maintains many open-source projects, and shares about his endeavors at opensoul.org.
