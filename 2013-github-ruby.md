@@ -10,7 +10,8 @@ In this talk, we will look at the libraries, practices and conventions that GitH
 * [Styleguide](https://github.com/styleguide/ruby)
 * Libraries/Gems
 * Sinatra <=> Rails
-* Testing rameworks
+* Testing frameworks
 * code/test ratio
+* code quality
 * Where we don't use Ruby (native apps, gitrpc, bert/ernie)
 * Databases
