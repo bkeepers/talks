@@ -8,8 +8,8 @@ This talk will introduce and explore a maturity model for embracing open source.
 
 This talk is aimed at two audiences:
 
-individuals that are looking to help their organizations embrace open source and are looking for guidance on adopting more mature processes
-individuals that have successfully helped organizations embrace open source and may may offer some insight into the dimensions and stages of maturity.
+- individuals that are looking to help their organizations embrace open source and are looking for guidance on adopting more mature processes
+- individuals that have successfully helped organizations embrace open source and may may offer some insight into the dimensions and stages of maturity.
 
 ## Benefits to the Ecosystem
 
