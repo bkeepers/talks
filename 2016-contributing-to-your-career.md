@@ -34,8 +34,8 @@ Participating in open source will set you on path of continuously learning, buil
 
 Contents:
 
-1. [The value of contributing](#the-value-of-contributing]
-2. [Becoming a contributor](#becoming-a-contributor]
+1. [The value of contributing](#the-value-of-contributing)
+2. [Becoming a contributor](#becoming-a-contributor)
 3. [Building a reputation](#building-a-reputation)
 
 ## The value of contributing
