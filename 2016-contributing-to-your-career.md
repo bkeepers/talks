@@ -49,11 +49,7 @@ Participating in open source has incredible advantages, like…
 - …in communities with people that share your passions…
 - …all for free.
 
-Those alone are great reasons, 
-
-this talk: take those for granted. Those are things you should do for you. Should always be finding ways to surrond yourself with great people, constantly learning.
-
-Focus on something more superficial.
+Those alone are great reasons.  This talk takes those for granted, and instead focuses on something more selfish: your career.
 
 **What do Disney, Walmart, and John Deer have in common?** One is an "American diversified multinational mass media and entertainment conglomerate" ([wikiepdia](https://en.wikipedia.org/wiki/The_Walt_Disney_Company), another is the largest retailer in the world, and the third makes tractors.
 
